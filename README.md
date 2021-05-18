@@ -16,6 +16,10 @@ The path is /Android/data/com.example.androiddatasetrecorder/files/AndroidDataRe
 
 
 # Layout
-![](https://github.com/tflucas/AndroidDatasetRecorder/images/1.jpg)  
-![](https://github.com/tflucas/AndroidDatasetRecorder/images/2.jpg)  
-![](https://github.com/tflucas/AndroidDatasetRecorder/images/3.jpg)  
+**1. The left button is for setting the resolution.**  
+**2. The right button is for starting recording.**  
+**3. Exiting the app means ending recording.**
+![](./images/1.jpg)  
+![](./images/2.jpg)  
+![](./images/3.jpg)  
+
