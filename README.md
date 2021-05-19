@@ -7,12 +7,12 @@ The path is /Android/data/com.example.androiddatasetrecorder/files/AndroidDataRe
 
 
 # Features
-1. Gyroscope  
-2. Acceleration  
-3. Gravity  
-4. Rotation Vector  
-5. GPS(if GPS is available)  
-6. images  
+1. Gyroscope(250hz)    
+2. Acceleration(250hz)    
+3. Gravity(100hz)  
+4. Rotation Vector(100hz)  
+5. GPS(if GPS is available)(1hz)  
+6. images(25hz)  
 
 
 # Layout
